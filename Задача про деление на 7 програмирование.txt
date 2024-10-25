@@ -1,0 +1,16 @@
+import random
+n=int(input())
+lst=[]
+for i in range(n):
+    lst.append(random.randint(1,100))
+max1=0
+max2=0
+max3=0
+for i in range(n):
+    if max1<lst[i] and lst[i]%7==0:
+        max1=lst[i]
+    elif max2<lst[i] and lst[i]%7==0:
+        max2=lst[i]
+    elif max3<lst[i] and lst[i]%7==0:
+        max3=lst[i]
+print(max1,max2,max3)

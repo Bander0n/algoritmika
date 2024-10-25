@@ -1,0 +1,18 @@
+from datetime import datetime, date, time
+dd=int(input())
+mm=int(input())
+yy=int(input())
+dd_in_mm=[31,28,31,30,31,30,31,31,30,31,30,31]
+if (yy%4==0 and yy%100!=0) or (yy%100==0 and yy%400==0):
+    dd_in_mm[1]=dd_in_mm[1]+1
+dz=0
+if dd<=15:
+    dz=15-dd
+else:
+    dz=dd_in_mm[mm-1]-dd+15
+print(dz)
+dt = date(yy, mm, dd)
+dn=["пн","вт","ср","чт","пт","сб","вс"]
+dt.weekday()
+nn=dn[]
+
