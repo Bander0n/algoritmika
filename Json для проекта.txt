@@ -1,0 +1,131 @@
+[ 
+    { 
+        "city1": "rim", 
+        "city2": "stambul", 
+        "company": "ТЛГрупп", 
+        "cost": 7000 
+    }, 
+ 
+    { 
+        "city1": "rim", 
+        "city2": "egyped", 
+        "company": "ТЛГрупп", 
+        "cost": 6000 
+    }, 
+ 
+    { 
+        "city1": "rim", 
+        "city2": "Sankt Peterburg", 
+        "company": "ТЛГрупп", 
+        "cost": 12000 
+    }, 
+ 
+    { 
+        "city1": "rim", 
+        "city2": "stambul", 
+        "company": "maintransport", 
+        "cost": 4000 
+    }, 
+ 
+    { 
+        "city1": "rim", 
+        "city2": "egyped", 
+        "company": "maintransport", 
+        "cost": 3000 
+    }, 
+ 
+    { 
+        "city1": "rim", 
+        "city2": "Sankt Peterburg", 
+        "company": "maintransport", 
+        "cost": 5000 
+    }, 
+ 
+    { 
+        "city1": "rim", 
+        "city2": "stambul", 
+        "company": "Ледфорвард", 
+        "cost": 10000 
+    }, 
+ 
+    { 
+        "city1": "rim", 
+        "city2": "egyped", 
+        "company": "Ледфорвард", 
+        "cost": 9000 
+    }, 
+ 
+    { 
+        "city1": "rim", 
+        "city2": "Sankt Peterburg", 
+        "company": "Ледфорвард", 
+        "cost": 15000 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "stambul", 
+        "company": "Балтийская Транспортная Компания", 
+        "cost": 7000 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "egyped", 
+        "company": "Балтийская Транспортная Компания", 
+        "cost": 6000 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "rim", 
+        "company": "Балтийская Транспортная Компания", 
+        "cost": 12000 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "stambul", 
+        "company": "ecoshp", 
+        "cost": 1500 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "egyped", 
+        "company": "ecoshp", 
+        "cost": 1000 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "rim", 
+        "company": "ecoshp", 
+        
+        "cost": 3000 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "stambul", 
+        "company": "itbrkc", 
+         
+        "cost": 20000 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "egyped", 
+        "company": "itbrkc", 
+         
+        "cost": 15000 
+    }, 
+ 
+    { 
+        "city1": "Sankt Peterburg", 
+        "city2": "rim", 
+        "company": "itbrkc", 
+         
+        "cost": 50000 
+    } 
+]
